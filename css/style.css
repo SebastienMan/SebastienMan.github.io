@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(#1d2838, #1e3b63);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    
+}
+
+/*----------HEADER----------*/
+
+.header__title__h1h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4c8cff;
+    text-align: center;
+    margin-top: 5em;
+}
+
