@@ -17,20 +17,19 @@
         <h2>React & Symfony sur Marseille</h2>
     </header>
 
-    <section class="section__left__portfolio">
-        <div>
-
-        </div>
-    </section>
-
-    <section class="section__right__cv">
-        <div>
-
-        </div>
-    </section>
+    <main>
+        <section class="section__div">
+            <div class="div__left__portfolio">
+                <h2>Portfolio</h2>
+            </div>
+            <div class="div__right__cv">
+                <h2>Curriculum vitae</h2>
+            </div>
+        </section>
+    </main>
 
     <footer>
-
+  
     </footer>
 
 </body>
